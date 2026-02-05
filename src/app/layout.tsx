@@ -37,12 +37,21 @@ export const metadata: Metadata = {
     siteName: "Mai Anh Hoàng Portfolio",
     title: "Mai Anh Hoàng | Full Stack Developer",
     description: "Portfolio of Mai Anh Hoàng - Full Stack Developer with experience in React, Next.js, Node.js and modern web technologies.",
+    images: [
+      {
+        url: "/logo.png",
+        width: 1200,
+        height: 630,
+        alt: "Mai Anh Hoàng - Full Stack Developer Portfolio",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Mai Anh Hoàng | Full Stack Developer",
     description: "Portfolio of Mai Anh Hoàng - Full Stack Developer with experience in React, Next.js, Node.js and modern web technologies.",
     creator: "@maianhhoang",
+    images: ["/logo.png"],
   },
   robots: {
     index: true,
