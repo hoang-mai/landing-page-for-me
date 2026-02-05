@@ -35,6 +35,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
+    url: "https://maianhhoang.vercel.app",
     siteName: "Mai Anh Hoàng Portfolio",
     title: "Mai Anh Hoàng | Full Stack Developer",
     description: "Portfolio of Mai Anh Hoàng - Full Stack Developer with experience in React, Next.js, Node.js and modern web technologies.",
